@@ -1,0 +1,7 @@
+__pycache__/
+public/
+
+test.sh
+test_htmlnode.py
+test_markdown_blocks.py
+test_textnode.py
